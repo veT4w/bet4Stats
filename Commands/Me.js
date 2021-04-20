@@ -6,7 +6,7 @@ const moment = require("moment");
 require("moment-duration-format");
 // exports.onLoad = (client) => {};
 /**
- * 
+ * Abi sa beT4 sex partnerim :D
  * @param {Discord.Client} client 
  * @param {Discord.Message} message 
  * @param {Array<String>} args 
